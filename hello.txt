@@ -2,3 +2,4 @@ hello hot-fix
 hello master!
 hello git!
 hello git2!!
+hello github!
